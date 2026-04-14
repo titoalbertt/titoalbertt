@@ -39,19 +39,35 @@ Open to working on:
 ## Stack
 
 **Languages**  
-JavaScript, TypeScript, Python, Java, PHP
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php)
 
 **Frameworks**  
-NestJS, React, Next.js, Angular, Laravel
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel)
 
 **Styling & UI**  
-Tailwind CSS, Bootstrap
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
 
 **Databases**  
-PostgreSQL, MongoDB, MySQL, Supabase
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase)
 
 **Tools**  
-GitHub Actions, Postman, Swagger, Vercel
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira)
 
 ---
 
