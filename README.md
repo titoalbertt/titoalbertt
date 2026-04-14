@@ -1,97 +1,14 @@
-<h1 align="center">Albert Redila</h1>
-<p align="center">
-Full-Stack Developer • NestJS • AI-Powered Web Applications
-</p>
+# **About Me:**
+**I’m currently working on:**<br>Building full-stack web applications with NestJS, React, and Neon/Drizzle ORM.<br><br> **I’m looking to collaborate on:**<br>Open-source projects or innovative web apps that use modern JS frameworks and AI integrations.<br><br> **I’m currently learning:**<br>Advanced TypeScript patterns, Tailwind CSS for UI/UX, NestJS for Backend and AI-driven web solutions.<br><br> **Ask me about:**<br>Full-stack development, API design, authentication workflows, or automating email verification systems.<br><br>
 
-<p align="center">
-Building scalable systems and turning ideas into real products
-</p>
 
----
+# **Socials:**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/albert.redila.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-redila-a79a37350/) 
 
-## About
-
-Full-stack developer focused on backend-heavy systems and modern web applications.
-
-I specialize in building scalable APIs, designing clean architectures, and integrating AI into real-world applications.
+# **Tech Stack:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=titoalbertt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Focus
-
-- Backend development with NestJS
-- Full-stack applications (React + Next.js)
-- Scalable and maintainable system design
-- AI-powered features for web platforms
-
----
-
-## Stack
-
-<p>
-<strong>Languages</strong><br/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript"/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php"/>
-</p>
-
-<p>
-<strong>Frameworks</strong><br/>
-<img src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=nestjs"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js"/>
-<img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular"/>
-<img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel"/>
-</p>
-
-<p>
-<strong>UI</strong><br/>
-<img src="https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/>
-</p>
-
-<p>
-<strong>Data</strong><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase"/>
-</p>
-
-<p>
-<strong>Tools</strong><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman"/>
-<img src="https://img.shields.io/badge/Swagger-000000?style=flat&logo=swagger"/>
-<img src="https://img.shields.io/badge/Jira-000000?style=flat&logo=jira"/>
-</p>
-
----
-
-## Collaboration
-
-Open to:
-- SaaS and startup projects
-- AI-integrated applications
-- Meaningful open-source work
-
----
-
-## Contact
-
-Facebook  
-https://www.facebook.com/albert.redila.3/
-
-LinkedIn  
-https://www.linkedin.com/in/albert-redila-a79a37350/
-
----
-
-## Philosophy
-
-Build systems that scale  
-Solve real problems  
-Ship products that matter
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
