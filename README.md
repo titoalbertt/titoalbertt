@@ -1,5 +1,5 @@
 # **About Me:**
-**I’m currently working on:**<br>Building full-stack web applications with NestJS, React, and Neon/Drizzle ORM.<br><br> **I’m looking to collaborate on:**<br>Open-source projects or innovative web apps that use modern JS frameworks and AI integrations.<br><br> **I’m currently learning:**<br>Advanced TypeScript patterns, Tailwind CSS for UI/UX, NestJS for Backend and AI-driven web solutions.<br><br> **Ask me about:**<br>Full-stack development, API design, authentication workflows, or automating email verification systems.<br><br>
+As a full-stack software developer, my area of expertise is creating solutions using PHP, Python, TypeScript, and JavaScript. I work on projects that include creating cutting-edge mobile and web applications.<br><br> I've been learning more about artificial intelligence lately, with an emphasis on incorporating AI methods and technologies into contemporary applications. These days, I create intelligent applications, develop AI-powered solutions, and use generative AI to bring cutting-edge technology and streamline development workflows.
 
 
 # **Socials:**
