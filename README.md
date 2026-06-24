@@ -1,5 +1,5 @@
 # **About Me:**
-As a full-stack software developer, my area of expertise is creating solutions using PHP, Python, TypeScript, and JavaScript. I work on projects that include creating cutting-edge mobile and web applications.<br><br> I've been learning more about artificial intelligence lately, with an emphasis on incorporating AI methods and technologies into contemporary applications. These days, I create intelligent applications, develop AI-powered solutions, and use generative AI to bring cutting-edge technology and streamline development workflows.
+I've been learning more about artificial intelligence lately, with an emphasis on incorporating AI methods and technologies into contemporary applications. These days, I create intelligent applications, develop AI-powered solutions, and use generative AI to bring cutting-edge technology and streamline development workflows.
 
 
 # **Socials:**
