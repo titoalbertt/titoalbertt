@@ -1,5 +1,5 @@
 # **About Me:**
-I've been learning more about artificial intelligence lately, with an emphasis on incorporating AI methods and technologies into contemporary applications. These days, I create intelligent applications, develop AI-powered solutions, and use generative AI to bring cutting-edge technology and streamline development workflows.
+Software Engineer with experience in developing secure, scalable, and user-friendly web applications. Demonstrated capacity to effectively contribute to production level systems, from initial development experience to shipping real-world solutions.
 
 
 # **Socials:**
