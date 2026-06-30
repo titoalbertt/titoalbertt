@@ -1,5 +1,9 @@
 # **About Me:**
-Software Engineer with experience in developing secure, scalable, and user-friendly web applications. Demonstrated capacity to effectively contribute to production level systems, from initial development experience to shipping real-world solutions.
+I'm a Full-Stack Software Engineer passionate about building scalable, secure, and user-focused web applications. I enjoy turning complex business requirements into clean, maintainable solutions while delivering features that create real value for users.
+
+My experience includes developing production-ready applications using TypeScript, NestJS, Next.js, React, and PostgreSQL, with a focus on API development, system architecture, database design, and modern frontend experiences. I thrive in Agile teams, collaborate closely with designers and QA engineers, and continuously seek opportunities to improve code quality, performance, and user experience.
+
+Beyond my day-to-day work, I'm passionate about exploring AI-powered applications, SaaS products, and modern software engineering practices that solve real-world problems.
 
 
 # **Socials:**
